@@ -1,4 +1,4 @@
-## A. Fix Wiring (Easy Version)
+## Fix Wiring (Easy Version)
 
 **Time limit per test:** 1 second  
 **Memory limit per test:** 256 megabytes  
