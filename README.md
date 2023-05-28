@@ -1,4 +1,4 @@
-## A. Elegant Card Sequence
+## Elegant Card Sequence
 
 **Time limit per test:** 1 second  
 **Memory limit per test:** 256 megabytes  
