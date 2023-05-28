@@ -1,4 +1,4 @@
-## D. Sloppy Shuffles 2
+## Sloppy Shuffles 2
 
 **Time limit per test:** 1 second  
 **Memory limit per test:** 256 megabytes  
